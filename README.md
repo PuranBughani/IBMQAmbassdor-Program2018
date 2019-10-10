@@ -5,10 +5,4 @@ Location was constraint and could not particiapte in 2019 Qiskit Camp ‘19, in 
 
 Link to  box folder to store Elevator Pitch link - https://ibm.box.com/s/hvazgtt7nhpsxcfqjsmlmrodwlgpga0i
 
-
-& 
-
-
-Elevator pitch file 
-
 Now geared up again, more with QisKit...:)
